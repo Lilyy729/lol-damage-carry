@@ -1,8 +1,4 @@
-remote_theme: pages-themes/midnight@v0.2.0
-plugins:
-  - jekyll-remote-theme
-
 title: Who Really Carried?
 description: Kill leaders, damage carries, and early-game prediction in professional League of Legends.
+theme: jekyll-theme-cayman
 show_downloads: false
-
