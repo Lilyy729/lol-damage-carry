@@ -1,0 +1,77 @@
+---
+---
+
+@import "jekyll-theme-midnight";
+
+body {
+  background: #fff8fc;
+  color: #504654;
+}
+
+#header {
+  background: linear-gradient(90deg, #c8b6ff, #ffc2d8);
+  border-bottom: 1px solid #ead7e8;
+}
+
+#header nav li a {
+  background: rgba(255, 255, 255, 0.85);
+  color: #76518e;
+  border: 1px solid #ead7ef;
+  border-radius: 12px;
+  box-shadow: none;
+}
+
+.wrapper {
+  max-width: 900px;
+}
+
+section {
+  max-width: 900px;
+  padding: 42px;
+  background: white;
+  border: 1px solid #efddea;
+  border-radius: 22px;
+  box-shadow: 0 10px 30px rgba(120, 85, 140, 0.12);
+}
+
+#title h1,
+h1,
+h2,
+h3,
+h4 {
+  color: #8c63a4;
+}
+
+#title p,
+p,
+li,
+td {
+  color: #504654;
+}
+
+a {
+  color: #8b6ac8;
+}
+
+table {
+  width: 100%;
+}
+
+th {
+  color: #76518e;
+  background: #f5eaff;
+}
+
+code {
+  color: #a5537c;
+  background: #fff0f6;
+  border-radius: 6px;
+}
+
+iframe {
+  width: 100%;
+  border: 1px solid #ead9ef;
+  border-radius: 16px;
+  background: white;
+  box-shadow: 0 5px 18px rgba(120, 85, 140, 0.1);
+}
